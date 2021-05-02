@@ -135,7 +135,6 @@ body {
 
 .btn.active {
   background-color: #ddd;
-  color: white;
 }
 
 .btn:focus{
