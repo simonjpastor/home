@@ -130,7 +130,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #f1f1f1;
+  background-color: #666;
 }
 
 .btn.active {
