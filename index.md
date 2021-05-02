@@ -175,25 +175,25 @@ body {
 
 <div class="row">
   <div class="column">
-    <img src="images/memorable_people.png" href="https://simonpastor.com/memorable-sportspeople-map">
-    <img src="images/memorable_people2.png" href="https://simonpastor.com/memorable-sportspeople-map">
-    <img src="images/delphes_1.png" href="https://politicalpred.herokuapp.com/">
+    <a href="https://simonpastor.com/memorable-sportspeople-map" target="__blank"><img src="images/memorable_people.png"></a>
+    <a href="https://simonpastor.com/memorable-sportspeople-map" target="__blank"><img src="images/memorable_people2.png"></a>
+    <a href="https://politicalpred.herokuapp.com/" target="__blank"><img src="images/delphes_1.png"></a>
   </div>
   <div class="column">
-    <img src="images/elections_general.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
-    <img src="images/elections_general3.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
-    <img src="images/elections_fillon.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
-    <img src="images/elections_lepen.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
+    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_general.png"></a>
+    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_general3.png"></a>
+    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_fillon.png"></a>
+    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_lepen.png"></a>
   </div>
   <div class="column">
-    <img src="images/twittlists1.png" href="https://twitter.com/Twitt_Lists">
-    <img src="images/twittlists2.png" href="https://twitter.com/Twitt_Lists">
-    <img src="images/twittlists3.png" href="https://twitter.com/Twitt_Lists">
+    <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists1.png"></a>
+    <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists2.png"></a>
+    <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists3.png"></a>
   </div>
   <div class="column">
-    <img src="images/pb-0.png" href="https://simonpastor.com/citizenlab-participatory-budgets">
-    <img src="images/pb-1.png" href="https://simonpastor.com/citizenlab-participatory-budgets">
-    <img src="images/simonsays3.png" href ="https://simonpastor.substack.com">
+    <a href="https://simonpastor.com/citizenlab-participatory-budgets" target="__blank"><img src="images/pb-0.png"></a>
+    <a href="https://simonpastor.com/citizenlab-participatory-budgets" target="__blank"><img src="images/pb-1.png"></a>
+    <a href="https://simonpastor.substack.com" target="__blank"><img src="images/simonsays3.png"></a>
   </div>
 </div>
 
