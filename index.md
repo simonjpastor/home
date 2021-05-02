@@ -171,25 +171,25 @@ body {
 
 <div class="row">
   <div class="column">
-    <img src="images/memorable_people.png">
-    <img src="images/memorable_people2.png">
-    <img src="images/delphes_1.png">
+    <img src="images/memorable_people.png" href="https://simonpastor.com/memorable-sportspeople-map">
+    <img src="images/memorable_people2.png" href="https://simonpastor.com/memorable-sportspeople-map">
+    <img src="images/delphes_1.png" href="https://politicalpred.herokuapp.com/">
   </div>
   <div class="column">
-    <img src="images/elections_general.png">
-    <img src="images/elections_general3.png">
-    <img src="images/elections_fillon.png">
-    <img src="images/elections_lepen.png">
+    <img src="images/elections_general.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
+    <img src="images/elections_general3.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
+    <img src="images/elections_fillon.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
+    <img src="images/elections_lepen.png" href="https://simonpastor.com/2017-French-Presidential-Elections">
   </div>
   <div class="column">
-    <img src="images/twittlists1.png">
-    <img src="images/twittlists2.png">
-    <img src="images/twittlists3.png">
+    <img src="images/twittlists1.png" href="https://twitter.com/Twitt_Lists">
+    <img src="images/twittlists2.png" href="https://twitter.com/Twitt_Lists">
+    <img src="images/twittlists3.png" href="https://twitter.com/Twitt_Lists">
   </div>
   <div class="column">
-    <img src="images/pb-0.png">
-    <img src="images/pb-1.png">
-    <img src="images/simonsays3.png">
+    <img src="images/pb-0.png" href="https://simonpastor.com/citizenlab-participatory-budgets">
+    <img src="images/pb-1.png" href="https://simonpastor.com/citizenlab-participatory-budgets">
+    <img src="images/simonsays3.png" href ="https://simonpastor.substack.com">
   </div>
 </div>
 
