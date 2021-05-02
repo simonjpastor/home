@@ -124,17 +124,17 @@ body {
   border: none;
   outline: none;
   padding: 10px 16px;
-  background-color: #f1f1f1;
+  background-color: #ddd;
   cursor: pointer;
   font-size: 18px;
 }
 
 .btn:hover {
-  background-color: #ddd;
+  background-color: #f1f1f1;
 }
 
 .btn.active {
-  background-color: #f1f1f1;
+  background-color: #ddd;
   color: white;
 }
 
