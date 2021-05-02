@@ -177,7 +177,7 @@ body {
   </div>
   <div class="column">
     <img src="images/elections_general.png">
-    <img src="images/elections_general3">
+    <img src="images/elections_general3.png">
     <img src="images/elections_fillon.png">
     <img src="images/elections_lepen.png">
   </div>
