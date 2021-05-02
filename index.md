@@ -137,6 +137,10 @@ body {
   background-color: #666;
   color: white;
 }
+
+.btn:focus{
+    background:olive;
+}
 </style>
 </head>
 <body>
