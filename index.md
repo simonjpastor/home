@@ -134,12 +134,12 @@ body {
 }
 
 .btn.active {
-  background-color: #666;
+  background-color: #f1f1f1;
   color: white;
 }
 
 .btn:focus{
-    background:olive;
+    background-color:#666;
 }
 </style>
 </head>
