@@ -141,14 +141,6 @@ body {
 </head>
 <body>
 
-<!-- Header -->
-<div class="header" id="myHeader">
-  <h1>Image Grid</h1>
-  <p>Click on the buttons to change the grid view.</p>
-  <button class="btn" onclick="one()">1</button>
-  <button class="btn active" onclick="two()">2</button>
-  <button class="btn" onclick="four()">4</button>
-</div>
 
   <div class="topnav">
     <a href="https://simonpastor.com">Home</a>
@@ -168,6 +160,14 @@ body {
     <a href="#news">Resume</a>
     <a href="https://simonpastor.com/Contact">Contact</a>
   </div>
+
+  <!-- Header -->
+<div class="header" id="myHeader">
+  <p>Click on the buttons to change the grid view.</p>
+  <button class="btn" onclick="one()">1</button>
+  <button class="btn active" onclick="two()">2</button>
+  <button class="btn" onclick="four()">4</button>
+</div>
 
 <div class="row">
   <div class="column">
