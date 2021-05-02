@@ -165,9 +165,10 @@ body {
     <a href="https://simonpastor.com/Contact">Contact</a>
   </div>
 
+<br>
   <!-- Header -->
 <div class="header" id="myHeader">
-  <p>Click on the buttons to change the grid view.</p>
+  <p>Click on the buttons to change the grid view. Click on an image to check out the project!</p>
   <button class="btn" onclick="one()">1</button>
   <button class="btn active" onclick="two()">2</button>
   <button class="btn" onclick="four()">4</button>
