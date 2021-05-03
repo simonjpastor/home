@@ -121,8 +121,9 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 99%;
+  height: 100%;
   width: 100%;
+  padding: 0 4px;
   opacity: 0;
   transition: .5s ease;
   background-color: #008CBA;
