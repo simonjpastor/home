@@ -214,7 +214,7 @@ body {
 </div>
 
 <div class="container">
-  <a href="https://simonpastor.com/memorable-sportspeople-map" target="__blank"><img src="images/memorable_people.png" alt="Avatar" class="image"></a>
+  <img src="images/memorable_people.png" alt="Avatar" class="image" onclick="URL_sports()">
   <div class="overlay">
     <div class="text">Click to check out!!</div>
   </div>
@@ -274,6 +274,11 @@ function four() {
     elements[i].style.flex = "25%";
   }
 }
+
+function URL_sports() {
+    location.href = 'https://simonpastor.com/memorable-sportspeople-map';
+}
+
 
 // Add active class to the current button (highlight it)
 var header = document.getElementById("myHeader");
