@@ -208,7 +208,7 @@ body {
 <br>
   <!-- Header -->
 <div class="header" id="myHeader">
-  <center><p><font color='#5DADE2'>Click on the buttons to change the grid view. Click on an image to check out the project!</font></p></center>
+  <center><p style="font-size:30px"><font color='#5DADE2'>Click on the buttons to change the grid view. Click on an image to check out the project!</font></p></center>
   <center>
     <button class="btn" onclick="one()">1</button>
     <button class="btn active" onclick="two()">2</button>
