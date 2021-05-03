@@ -216,7 +216,7 @@ body {
 <div class="container">
   <a href="https://simonpastor.com/memorable-sportspeople-map" target="__blank"><img src="images/memorable_people.png" alt="Avatar" class="image"></a>
   <div class="overlay">
-    <div class="text">Click to check out</div>
+    <div class="text">Click to check out!</div>
   </div>
 </div>
 
