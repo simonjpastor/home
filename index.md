@@ -239,7 +239,7 @@ body {
   <div class="column">
     <div class="container"><img src="images/twittlists1.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
     <div class="container"><img src="images/twittlists2.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
-    <div class="container"><img src="images/twittlists.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
+    <div class="container"><img src="images/twittlists3.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
   </div>
   <div class="column">
     <div class="container"><img src="images/pb-0.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
