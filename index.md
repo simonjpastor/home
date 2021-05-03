@@ -226,8 +226,8 @@ body {
 
 <div class="row">
   <div class="column">
-    <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Click to check out!!</div></div></div>
-    <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Click to check out!!</div></div></div>
+    <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople <br>Click to check out!!</div></div></div>
+    <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople <br>Click to check out!!</div></div></div>
     <div class="container"><img src="images/delphes_1.png" class="image" onclick="URL_delphes()"><div class="overlay" onclick="URL_sports()"><div class="text">Delphes <br>Click to check out this project!</div></div></div>
   </div>
   <div class="column">
