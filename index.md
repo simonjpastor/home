@@ -106,7 +106,7 @@ body {
 
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .image {
@@ -173,11 +173,7 @@ body {
   background-color: #666;
 }
 
-.btn.active {
-  background-color: #666;
-}
-
-.btn.active a{
+.btn a.active{
   background-color: #666;
 }
 
