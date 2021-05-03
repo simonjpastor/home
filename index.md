@@ -129,7 +129,7 @@ body {
 }
 
 .container:hover .overlay, .container:focus .overlay {
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 .text {
@@ -217,18 +217,18 @@ body {
 
 <br>
 
-<div class="container">
+<!-- <div class="container">
   <img src="images/memorable_people.png" class="image" onclick="URL_sports()">
   <div class="overlay" onclick="URL_sports()">
     <div class="text">Click to check out!!</div>
   </div>
-</div>
+</div> -->
 
 <div class="row">
   <div class="column">
-    <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople <br>Click to check out!!</div></div></div>
-    <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople <br>Click to check out!!</div></div></div>
-    <div class="container"><img src="images/delphes_1.png" class="image" onclick="URL_delphes()"><div class="overlay" onclick="URL_sports()"><div class="text">Delphes <br>Click to check out this project!</div></div></div>
+    <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
+    <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
+    <div class="container"><img src="images/delphes_1.png" class="image" onclick="URL_delphes()"><div class="overlay" onclick="URL_sports()"><div class="text">Delphes</div></div></div>
   </div>
   <div class="column">
     <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_general.png"></a>
@@ -287,6 +287,9 @@ function URL_delphes() {
     location.href = 'https://politicalpred.herokuapp.com/';
 }
 
+function URL_elections() {
+    location.href = 'https://simonpastor.com/2017-French-Presidential-Elections';
+}
 
 // Add active class to the current button (highlight it)
 var header = document.getElementById("myHeader");
