@@ -242,9 +242,9 @@ body {
     <div class="container"><img src="images/twittlists.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
   </div>
   <div class="column">
-    <a href="https://simonpastor.com/citizenlab-participatory-budgets" target="__blank"><img src="images/pb-0.png"></a>
-    <a href="https://simonpastor.com/citizenlab-participatory-budgets" target="__blank"><img src="images/pb-1.png"></a>
-    <a href="https://simonpastor.substack.com" target="__blank"><img src="images/simonsays3.png"></a>
+    <div class="container"><img src="images/pb-0.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
+    <div class="container"><img src="images/pb-1.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
+    <div class="container"><img src="images/simonsays3.png" class="image"><div class="overlay" onclick="URL_simonsays()"><div class="text">Simonsays</div></div></div>
   </div>
 </div>
 
@@ -295,6 +295,13 @@ function URL_twittlists() {
     location.href = 'https://twitter.com/Twitt_Lists';
 }
 
+function URL_citizenlab() {
+    location.href = 'https://simonpastor.com/citizenlab-participatory-budgets';
+}
+
+function URL_simonsays() {
+    location.href = 'https://simonpastor.substack.com';
+}
 // Add active class to the current button (highlight it)
 var header = document.getElementById("myHeader");
 var btns = header.getElementsByClassName("btn");
