@@ -199,8 +199,8 @@ body {
 
 
   <div class="topnav">
-    <a href="https://simonpastor.com">Home</a>
-    <a class="active" href="https://simonpastor.com/portfolio">Portfolio</a>
+    <a class="active" href="https://simonpastor.com">Home</a>
+    <a href="https://simonpastor.com/portfolio">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
         <a href="#contact">SimonSays</a>
