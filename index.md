@@ -182,6 +182,10 @@ body {
   background-color: #666;
 }
 
+.btn a{
+  background-color: #666;
+}
+
 .btn:focus{
     background-color:#666;
 }
