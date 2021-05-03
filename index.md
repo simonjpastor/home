@@ -241,7 +241,7 @@ img,
   <div class="bg">
     <img src="images/memorable_people.png" alt="">
     <div class="overlay">
-      <h2>Sportspeople <span></span></h2>
+      <p>Sportspeople</p>
       <p>Click to check out the project!</p>
     </div>
   </div>
