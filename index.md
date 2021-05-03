@@ -174,7 +174,7 @@ body {
 }
 
 .btn.active {
-  background-color: #ddd;
+  background-color: #666;
 }
 
 .btn:focus{
