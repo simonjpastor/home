@@ -231,10 +231,10 @@ body {
     <div class="container"><img src="images/delphes_1.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
   </div>
   <div class="column">
-    <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
-    <div class="container"><img src="images/elections_general3.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
-    <div class="container"><img src="images/elections_fillon.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
-    <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
+    <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+    <div class="container"><img src="images/elections_general3.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+    <div class="container"><img src="images/elections_fillon.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+    <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
   </div>
   <div class="column">
     <div class="container"><img src="images/twittlists1.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
