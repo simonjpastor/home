@@ -104,68 +104,44 @@ body {
   vertical-align: middle;
 }
 
-$bg: rgba(0, 0, 0, 0.2);
-
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  width: 85vw;
-  margin: 1rem auto;
-}
-
-
-.bg,
-.overlay {
-  text-align: center;
-}
-
-img,
-.overlay {
-  transition: .3s all;
-  border-radius: 3px;
-}
-
-.bg {
-  float: left;
-  max-width: 31%;
+container {
   position: relative;
-  margin: .5%;
-  img {
-    width: 100%;
-    margin-bottom: -4px;
-  }
-  .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background: $bg;
-    color: #fff;
-    opacity: 0;
-    h2 {
-      padding-top: 20%;
-      font-family: 'Droid Serif', serif;
-    }
-    p {
-      font-family: 'Julius Sans One', sans-serif;
-    }
-  }
-  &:hover {
-    .overlay {
-      opacity: 1;
-    }
-    img {
-      -webkit-filter: blur(2px);
-      filter: blur(2px);
-    }
-  }
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 0.9;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 
@@ -238,12 +214,9 @@ img,
 </div>
 
 <div class="container">
-  <div class="bg">
-    <img src="images/memorable_people.png" alt="">
-    <div class="overlay">
-      <p>Sportspeople</p>
-      <p>Click to check out the project!</p>
-    </div>
+  <img src="img_avatar.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Hello World</div>
   </div>
 </div>
 
