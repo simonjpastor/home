@@ -215,6 +215,8 @@ body {
   </center>
 </div>
 
+<br>
+
 <div class="container">
   <img src="images/memorable_people.png" class="image" onclick="URL_sports()">
   <div class="overlay" onclick="URL_sports()">
