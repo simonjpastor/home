@@ -237,9 +237,9 @@ body {
     <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
   </div>
   <div class="column">
-    <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists1.png"></a>
-    <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists2.png"></a>
-    <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists3.png"></a>
+    <div class="container"><img src="images/twittlists1.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
+    <div class="container"><img src="images/twittlists2.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
+    <div class="container"><img src="images/twittlists.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
   </div>
   <div class="column">
     <a href="https://simonpastor.com/citizenlab-participatory-budgets" target="__blank"><img src="images/pb-0.png"></a>
@@ -289,6 +289,10 @@ function URL_delphes() {
 
 function URL_elections() {
     location.href = 'https://simonpastor.com/2017-French-Presidential-Elections';
+}
+
+function URL_twittlists() {
+    location.href = 'https://twitter.com/Twitt_Lists';
 }
 
 // Add active class to the current button (highlight it)
