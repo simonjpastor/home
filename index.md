@@ -168,6 +168,10 @@ body {
   background-color: #ddd;
   cursor: pointer;
   font-size: 18px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
 }
 
 .btn:hover {
