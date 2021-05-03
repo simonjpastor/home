@@ -129,7 +129,7 @@ body {
 }
 
 .container:hover .overlay, .container:focus .overlay {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .text {
@@ -228,13 +228,13 @@ body {
   <div class="column">
     <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
-    <div class="container"><img src="images/delphes_1.png" class="image" onclick="URL_delphes()"><div class="overlay" onclick="URL_sports()"><div class="text">Delphes</div></div></div>
+    <div class="container"><img src="images/delphes_1.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
   </div>
   <div class="column">
-    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_general.png"></a>
-    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_general3.png"></a>
-    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_fillon.png"></a>
-    <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_lepen.png"></a>
+    <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
+    <div class="container"><img src="images/elections_general3.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
+    <div class="container"><img src="images/elections_fillon.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
+    <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">Delphes</div></div></div>
   </div>
   <div class="column">
     <a href="https://twitter.com/Twitt_Lists" target="__blank"><img src="images/twittlists1.png"></a>
