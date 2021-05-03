@@ -122,7 +122,7 @@ body {
   left: 0;
   right: 0;
   height: 99%;
-  width: 99%;
+  width: 100%;
   opacity: 0;
   transition: .5s ease;
   background-color: #008CBA;
