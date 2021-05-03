@@ -216,7 +216,7 @@ body {
 <div class="container">
   <img src="images/memorable_people.png" alt="Avatar" class="image" onclick="URL_sports()">
   <div class="overlay" onclick="URL_sports()">
-    <div class="text">Click to check out!</div>
+    <div class="text">Click to check out!!</div>
   </div>
 </div>
 
