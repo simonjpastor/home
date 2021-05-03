@@ -245,6 +245,7 @@ img,
       <p>Click to check out the project</p>
     </div>
   </div>
+</div>
 
 <div class="row">
   <div class="column">
