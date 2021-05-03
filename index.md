@@ -173,6 +173,10 @@ body {
   background-color: #666;
 }
 
+.btn.active {
+  background-color: #666;
+}
+
 .btn.active a{
   background-color: #666;
 }
