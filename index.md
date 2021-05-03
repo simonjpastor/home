@@ -128,7 +128,7 @@ body {
   background-color: #008CBA;
 }
 
-.container:hover .overlay {
+.container:hover .overlay, .container:focus .overlay {
   opacity: 0.9;
 }
 
