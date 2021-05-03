@@ -208,13 +208,15 @@ body {
   <!-- Header -->
 <div class="header" id="myHeader">
   <center><p><font color='#5DADE2'>Click on the buttons to change the grid view. Click on an image to check out the project!</font></p></center>
-  <button class="btn" onclick="one()">1</button>
-  <button class="btn active" onclick="two()">2</button>
-  <button class="btn" onclick="four()">4</button>
+  <center>
+    <button class="btn" onclick="one()">1</button>
+    <button class="btn active" onclick="two()">2</button>
+    <button class="btn" onclick="four()">4</button>
+  </center>
 </div>
 
 <div class="container">
-  <img src="images/memorable_people.png" alt="Avatar" class="image" onclick="URL_sports()">
+  <img src="images/memorable_people.png" class="image" onclick="URL_sports()">
   <div class="overlay" onclick="URL_sports()">
     <div class="text">Click to check out!!</div>
   </div>
