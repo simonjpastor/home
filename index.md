@@ -216,7 +216,7 @@ container {
 <div class="container">
   <img src="img_avatar.png" alt="Avatar" class="image">
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">Click to check out</div>
   </div>
 </div>
 
