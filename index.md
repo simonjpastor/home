@@ -104,7 +104,7 @@ body {
   vertical-align: middle;
 }
 
-container {
+.container {
   position: relative;
   width: 50%;
 }
