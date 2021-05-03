@@ -226,9 +226,9 @@ body {
 
 <div class="row">
   <div class="column">
-    <a href="https://simonpastor.com/memorable-sportspeople-map" target="__blank"><img src="images/memorable_people.png"></a>
-    <a href="https://simonpastor.com/memorable-sportspeople-map" target="__blank"><img src="images/memorable_people2.png"></a>
-    <a href="https://politicalpred.herokuapp.com/" target="__blank"><img src="images/delphes_1.png"></a>
+    <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Click to check out!!</div></div></div>
+    <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Click to check out!!</div></div></div>
+    <div class="container"><img src="images/delphes_1.png" class="image" onclick="URL_delphes()"><div class="overlay" onclick="URL_sports()"><div class="text">Delphes <br>Click to check out this project!</div></div></div>
   </div>
   <div class="column">
     <a href="https://simonpastor.com/2017-French-Presidential-Elections" target="__blank"><img src="images/elections_general.png"></a>
@@ -281,6 +281,10 @@ function four() {
 
 function URL_sports() {
     location.href = 'https://simonpastor.com/memorable-sportspeople-map';
+}
+
+function URL_delphes() {
+    location.href = 'https://politicalpred.herokuapp.com/';
 }
 
 
